@@ -1,3 +1,0 @@
-- PhD awarded with "summa cum laude", UAB, 2013
-- [Best Student Paper Award](http://computationalcreativity.net/iccc2012/the-conference-awards/), by the [Cognitive Science Society](http://cognitivesciencesociety.org/index.html), at ICCC 2012
-- JAE Predoc Doctoral Research Grant, CSIC, Spanish Ministry of Science and Innovation
