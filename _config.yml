@@ -1,1 +1,16 @@
-theme: jekyll-theme-slate
+name: "Hakan Bilen @ robots.ox.ac.uk"
+url: http://www.robots.ox.ac.uk
+baseurl: /~hbilen
+permalink: /:year/:month/:day/:title
+timezone: Europe/London
+
+navigation:
+- text: About
+  url: /index.html
+- text: Publications
+  url: /publications/index.html
+
+scholar:
+  style: apa
+  repository: assets/pdf
+  bibliography_template: bibliography

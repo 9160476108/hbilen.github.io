@@ -1,0 +1,31 @@
+---
+title: About
+layout: default
+---
+<div id="photo-well" class="pull-right well container">
+  <img alt="photo" src="{{site.baseurl}}/assets/images/hakan.jpg">
+  <div>
+    {% capture contact %}{% include contact.md %}{% endcapture %}
+    {{ contact | markdownify }}
+  </div>
+</div>
+<div>
+  <h1>
+    NEWS / ACTIVITY
+  </h1>
+  {% capture news %}{% include news.md %}{% endcapture %}
+  {{ news | markdownify }}
+
+  <h1>
+    ABOUT
+  </h1>
+  {% capture bio %}{% include bio.md %}{% endcapture %}
+  {{ bio | markdownify }}
+
+  <h1>
+    RESEARCH INTERESTS
+  </h1>
+  {% capture interests %}{% include interests.md %}{% endcapture %}
+  {{ interests | markdownify }}
+
+</div>
