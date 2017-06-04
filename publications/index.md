@@ -2,7 +2,6 @@
 title: Publications
 layout: default
 ---
-
 # Working Papers
 {% bibliography --file working %}
 
