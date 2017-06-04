@@ -14,6 +14,12 @@
     {% if link %}
     <li><a class="bib-materials" href="{{link}}" onClick="_gaq.push(['_trackEvent', 'Download', 'PDF', '{{key}}']);">PDF</a></li>
     {% endif %}
+    
+    {% if entry.xcode %}
+    <li><a class="bib-materials" href="{{entry.xcode}}" onClick="_gaq.push(['_trackEvent', '{{key}}' ]);">Code</a></li>
+    {% endif %}
+
+
   </ul>
 
   {% if entry.abstract %}
