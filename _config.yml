@@ -1,6 +1,6 @@
-name: "Hakan Bilen @ robots.ox.ac.uk"
-url: http://www.robots.ox.ac.uk
-baseurl: /~hbilen
+name: "Hakan Bilen @ homepages.inf.ed.ac.uk"
+url: http://homepages.inf.ed.ac.uk
+baseurl: /hbilen
 permalink: /:year/:month/:day/:title
 timezone: Europe/London
 
