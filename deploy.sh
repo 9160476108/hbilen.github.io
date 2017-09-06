@@ -1,4 +1,4 @@
-#!/bin/bash
-rsync -avx _site/index.html hbilen@robots.ox.ac.uk:/homes/33/hbilen/WWW/ --delete
-rsync -avx _site/publications/ hbilen@robots.ox.ac.uk:/homes/33/hbilen/WWW/publications/ --delete
-rsync -avx _site/assets/ hbilen@robots.ox.ac.uk:/homes/33/hbilen/WWW/assets/ --delete
+#!/bin/bash 
+rsync -avx _site/index.html    hbilen@staff.login:/public/homepages/hbilen/web/ --delete
+rsync -avx _site/publications/ hbilen@staff.login:/public/homepages/hbilen/web/publications/ --delete
+rsync -avx _site/assets/       hbilen@staff.login:/public/homepages/hbilen/web/assets/ --delete
