@@ -1,3 +1,4 @@
+- September 2017. I am seeking a UK/EU PhD candidate in computer vision and machine learning to start in January 2018. The position is funded (tuition fee+stipend) for three years. Interested candidates should send me their cv's. 
 - September 2017. Two papers (an oral and a spotlight) accepted at NIPS'17. Congrats to my coauthors!
 - August 2017. State-of-the-art action classification performance in our [pami submission](http://www.robots.ox.ac.uk/~hbilen/assets/pdf/Bilen16c.pdf).
 - July 2017. Our ICCV paper is accepted as oral presentation. Congrats to my coauthors! 
