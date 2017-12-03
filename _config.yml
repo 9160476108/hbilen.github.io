@@ -7,7 +7,7 @@ timezone: Europe/London
 navigation:
 - text: About
   url: /index.html
-- text: Vacancies 
+- text: Prospective Students 
   url: /vacancies/index.html
 - text: Publications
   url: /publications/index.html
