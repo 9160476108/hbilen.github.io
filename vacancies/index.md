@@ -2,13 +2,13 @@
 title: Prospective Students 
 layout: default
 ---
-I receive an overwhelming amount of emails from prospective students and I am sorry if I have not been able to respond to your email. Here is a FAQ that may help you to find answers:
+I receive an overwhelming amount of emails from prospective students for PhD, MSc, MPhil. I am sorry if I have not been able to respond to your email. Here is a FAQ that may help you to find answers:
 
 - **Do you accept new students?** Yes, I am always looking for good students. However, I do not have any funding for the studentships at the moment.
 
 - **How can I apply for a funding / scholarship?** You can find a guideline [here](https://www.ed.ac.uk/informatics/postgraduate/apply). My suggestion is to apply to the one of the centres for doctoral training (CDT), [Data Science](http://datascience.inf.ed.ac.uk/) or [Robotics](http://www.edinburgh-robotics.org/). Alternatively, you can also apply to a very competitive one, [Enlightenment scholarship](https://www.ed.ac.uk/student-funding/postgraduate/uk-eu/university-scholarships/enlightenment). 
 
-- **What kind of topics can I study in my PhD?** I am open to take on PhD students for a wide range of topics in the intersection of computer vision, machine learning and deep learning (see my recent [publications](../publications/index.html) to get a sense of what I am currently interested in).
+- **What kind of topics can I work on my PhD?** I am open to take on students for a wide range of topics in the intersection of computer vision, machine learning and deep learning (see my recent [publications](../publications/index.html) to get a sense of what I am currently interested in).
 
 - **Can I be co-supervised?** Yes it is quite common in the School of Informatics. Most PhD students do some collaborative work with other professors.
 
