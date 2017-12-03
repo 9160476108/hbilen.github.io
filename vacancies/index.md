@@ -2,7 +2,7 @@
 title: Prospective Students 
 layout: default
 ---
-Unfortunately I receive an overwhelming amount of emails from prospective students and I am sorry if I have not been able to respond to your email. Here is a FAQ that may help you to find answers:
+I receive an overwhelming amount of emails from prospective students and I am sorry if I have not been able to respond to your email. Here is a FAQ that may help you to find answers:
 
 - **Do you accept new students?** Yes, I am always looking for good students. However, I do not have any funding for the studentships at the moment.
 
