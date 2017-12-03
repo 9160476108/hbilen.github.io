@@ -12,7 +12,7 @@ I receive an overwhelming amount of emails from prospective students and I am so
 
 - **Can I be co-supervised?** Yes it is quite common in the School of Informatics. Most PhD students do some collaborative work with other professors.
 
-
+- **I have decided to apply to one of these programs and I'd like to contact you.** Please e-mail me with the title **[Prospective Student]**. 
 
 <!---
 
