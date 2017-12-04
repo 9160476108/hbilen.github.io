@@ -12,9 +12,8 @@ I receive an overwhelming amount of emails from prospective students for PhD, MS
 
 - **Can I be co-supervised?** Yes it is quite common in the School of Informatics. Most PhD students do some collaborative work with other professors.
 
-- **I am an undergraduate, can I do a summer-project or internship with you?** Unfortunately no.
-
 - **I have decided to apply to one of these programs and I'd like to contact you.** Please e-mail me with the title **[Prospective Student]**. 
+
 
 <!---
 
