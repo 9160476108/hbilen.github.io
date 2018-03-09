@@ -1,4 +1,4 @@
-- March'18, Area chair in ECCV'18 
+- March'18, Area chair in ECCV'18 and BMVC'18. 
 - Feb'18, CVPR'18 paper is accepted, congrats to Sylvestre and Andrea!
 - Outstanding reviewer at [ICCV'17](http://iccv2017.thecvf.com/files/OpeningICCV17.pdf).
 - Nov'17. State-of-the-art action classification performance in our [pami journal](assets/pdf/Bilen17a.pdf).
