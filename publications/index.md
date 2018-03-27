@@ -2,17 +2,11 @@
 title: Publications
 layout: default
 ---
-# Working Papers
-{% bibliography --file working %}
-
-# Conference
+# Conference/Journal
 {% bibliography --file conference %}
-
-# Journal
-{% bibliography --file journal %}
 
 # Theses
 {% bibliography --file theses %}
 
-# Others / Unpublished
+# Technical Reports
 {% bibliography --file other %}
