@@ -1,4 +1,4 @@
-- [NIPS Residual adapters code](https://github.com/srebuffi/residual_adapters) is available now.
+- March'18, CVPR'18 and NIPS'18 [code](https://github.com/srebuffi/residual_adapters) is available now.
 - March'18, Area chair in [ECCV'18](https://eccv2018.org/) and [BMVC'18](http://bmvc2018.org/). 
 - Feb'18, CVPR'18 paper is accepted, congrats to Sylvestre and Andrea!
 - Outstanding reviewer at [ICCV'17](http://iccv2017.thecvf.com/files/OpeningICCV17.pdf).
