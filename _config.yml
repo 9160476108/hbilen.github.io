@@ -9,6 +9,8 @@ navigation:
   url: /index.html
 - text: Vacancies 
   url: /vacancies/index.html
+- text: Group 
+  url: /group/index.html
 - text: Publications
   url: /publications/index.html
 
