@@ -15,6 +15,7 @@ I receive an overwhelming amount of emails from prospective students for PhD, MS
 - **I have decided to apply to one of these programs and I'd like to contact you.** Please e-mail me with the title **[Prospective Student]**. 
 
 - **Do you offer summer projects or internships?** No, unfortunately I am not taking any summer students.
+
 <!---
 
 ## PhD Studentship: Computer vision and Machine learning in the University of Edinburgh
