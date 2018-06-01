@@ -20,7 +20,7 @@ We are currently seeking a postdoc to work on a project funded by Huawei. The pr
 
 The School of Informatics at Edinburgh is one of the top-ranked Computer Science departments in Europe and offers an exciting research environment. Edinburgh is a beautiful historic city with a high quality of life.
 
-The work will be carried out under the supervision of Dr Hakan Bilen. There will be opportunities to collaborate with Dr Andrea Vedaldi at the University of Oxford and other researchers in the School of Informatics.
+The work will be carried out under the supervision of Dr Hakan Bilen. There will be opportunities to collaborate with the Visual Geometry Group (VGG) at the University of Oxford and other research groups in the School of Informatics.
 
 Please send applications to the email address below, including:
 - a brief statement of research interests (describing how past experience and future plans fit with the advertised position)
