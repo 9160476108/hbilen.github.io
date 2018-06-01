@@ -2,11 +2,48 @@
 title: Prospective Students 
 layout: default
 ---
+
+# Postdoctoral positions
+We are currently seeking a postdoc to work on a project funded by Huawei. The project is in the area of visual recognition and scene understanding with a focus on multi-task learning.
+
+**Requirements:** Applicants should have:
+
+- PhD in Computer Vision, Machine Learning, or closely related area
+- Publications in the top computer vision and/or machine learning conferences and journals
+- Highly motivated and willing to work with PhD students
+- Proficient in English, both written and spoken
+
+**Starting date:** September 2018 or later\\
+**Duration:** Two years\\
+**Closing date:** July 6, 2018\\
+**Salary:** Grade 7: £31,604 - £38,833 p.a.
+
+The School of Informatics at Edinburgh is one of the top-ranked Computer Science departments in Europe and offers an exciting research environment. Edinburgh is a beautiful historic city with a high quality of life.
+
+The work will be carried out under the supervision of Dr Hakan Bilen. There will be opportunities to collaborate with Dr Andrea Vedaldi at the University of Oxford and other researchers in the School of Informatics.
+
+Please send applications to the email address below, including:
+- a brief statement of research interests (describing how past experience and future plans fit with the advertised position)
+- complete CV, including list of publications
+- the names and email addresses of two references
+
+**Email:** hbilen@ed.ac.uk
+
+---
+
+# PhD positions
+
+Currently we do not have any PhD scholarship available. If you are interested in becoming a PhD student in my group, please see the guideline below for other funding opportunities.
+
+
+---
+# FAQ
+
 I receive an overwhelming amount of emails from prospective students for PhD, MSc, MPhil. I am sorry if I have not been able to respond to your email. Here is a FAQ that may help you to find answers:
 
 - **Do you accept new students?** Yes, I am always looking for good students. However, I do not have any funding for studentships at the moment.
 
-- **How can I apply for a funding / scholarship?** You can find a guideline [here](https://www.ed.ac.uk/informatics/postgraduate/apply). My suggestion is to apply to one of the centres for doctoral training (CDT), [Data Science](http://datascience.inf.ed.ac.uk/) or [Robotics](http://www.edinburgh-robotics.org/). Alternatively, you can also apply to a very competitive one, [Enlightenment scholarship](https://www.ed.ac.uk/student-funding/postgraduate/uk-eu/university-scholarships/enlightenment). 
+- **How can I apply for a funding / scholarship?** You can find a guideline [here](https://www.ed.ac.uk/informatics/postgraduate/apply) for the Informatics scholarships. Alternatively you can apply to one of the centres for doctoral training (CDT), [Data Science](http://datascience.inf.ed.ac.uk/) or [Robotics](http://www.edinburgh-robotics.org/).
 
 - **What kind of topics can I work on my PhD?** I am open to take on students for a wide range of topics in the intersection of computer vision, machine learning and deep learning (see my recent [publications](../publications/index.html) to get a sense of what I am currently interested in).
 
