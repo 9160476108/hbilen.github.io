@@ -6,7 +6,7 @@ layout: default
 # Postdoctoral positions
 We are currently seeking a postdoc to work on a project funded by Huawei. The project is in the area of visual recognition and scene understanding with a focus on multi-task learning.
 
-**Requirements:** Applicants should have:
+**Requirements:** Applicants should have/be:
 
 - PhD in Computer Vision, Machine Learning, or closely related area
 - Publications in the top computer vision and/or machine learning conferences and journals
