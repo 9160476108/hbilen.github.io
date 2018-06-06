@@ -9,7 +9,8 @@ We are currently seeking a postdoc to work on a project funded by Huawei. The pr
 **Requirements:** Applicants should have/be:
 
 - PhD in Computer Vision, Machine Learning, or closely related area
-- Publications in the top computer vision and/or machine learning conferences and journals
+- Publications in the top computer vision (CVPR, ICCV, ECCV) and/or machine learning conferences (NIPS, ICML, ICLR) and journals (PAMI, IJCV)
+- Very good programming skills in a deep learning library (e.g. PyTorch, TensorFlow, Caffe) 
 - Highly motivated and willing to work with PhD students
 - Proficient in English, both written and spoken
 
