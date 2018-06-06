@@ -14,7 +14,7 @@ We are currently seeking a postdoc to work on a project funded by Huawei. The pr
 - Highly motivated and willing to work with PhD students
 - Proficient in English, both written and spoken
 
-**Starting date:** September 2018 or later\\
+**Starting date:** October 2018 or later\\
 **Duration:** Two years\\
 **Closing date:** July 6, 2018\\
 **Salary:** Grade 7: £31,604 - £38,833 p.a.
