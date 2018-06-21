@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Postdoctoral positions
-We are currently seeking a postdoc to work on a project funded by Huawei. The project is in the area of visual recognition and scene understanding with a focus on multi-task learning.
+We are currently seeking a postdoc to work on a project in the area of visual recognition and scene understanding with a focus on multi-task learning.
 
 **Requirements:** Applicants should have/be:
 
@@ -23,7 +23,7 @@ The School of Informatics at Edinburgh is one of the top-ranked Computer Science
 
 The work will be carried out under the supervision of Dr Hakan Bilen. There will be opportunities to collaborate with the Visual Geometry Group (VGG) at the University of Oxford and other research groups in the School of Informatics.
 
-Please send applications to the email address below with the title **[Postdoc Huawei]**, including:
+Please send applications to the email address below with the title **[Postdoc Candidate]**, including:
 - a brief statement of research interests (describing how past experience and future plans fit with the advertised position)
 - complete CV, including list of publications
 - the names and email addresses of two references
