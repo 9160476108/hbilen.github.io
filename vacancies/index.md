@@ -39,7 +39,7 @@ We are seeking an exceptional UK/EU PhD candidate to study in the prestigious in
 
 **PhD candidate requirements:** We are looking for creative and motivated applicants with, or expected to obtain soon, a 1st Class Honours degree in a relevant discipline, including Informatics, Computer Science, Electrical Engineering but not limited to. Basic programming skills (python, c++, MATLAB) are required. Previous experience on machine learning and computer vision, for example object and action classification, is appreciated but not a requirement.
 
-**Funding:** This is a Toyota Belgium funded award and will provide an annual stipend for three years of £14,553 per year (subject to confirmation), plus University fees for UK/EU students. Any eligible non-EU candidates must fund the remainder of the overseas tuition fee.
+**Funding:** This is a Toyota Belgium funded award and will provide an annual stipend for 3.5 years, plus University fees for UK/EU students. Any eligible non-EU candidates must fund the remainder of the overseas tuition fee.
 
 **Application:** If you are interested in the position, please provide a CV, a personal statement detailing your research interests and reasons for applying (max 1 page), marks for your degree(s) and an email address for one academic reference. The application deadline is July 13, 2018 and the expected start date for the position is September/October 2018. All documents should be in electronic format and sent via e-mail to me with the title **[PhD Studentship Toyota]**. 
 
