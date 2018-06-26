@@ -2,4 +2,4 @@ I am a lecturer (assistant professor) in the [School of Informatics](http://www.
 
 I completed my PhD in [VISICS](http://www.esat.kuleuven.be/psi) group in [KU Leuven](http://www.kuleuven.be/kuleuven/). I was lucky to work with Luc Van Gool and [Tinne Tuytelaars](http://homes.esat.kuleuven.be/~tuytelaa/). My PhD topic was about image classification with latent parameters with a focus on weakly supervised object detection and action recognition.
 
-My bachelor's and master's degrees from [Sabanci University](http://www.sabanciuniv.edu/) where I was working on micro-robotics with [Mustafa Unel](http://people.sabanciuniv.edu/munel/) who thankfully introduced me to computer vision.
+My bachelor's and master's degrees are from [Sabanci University](http://www.sabanciuniv.edu/) where I was working on micro-robotics with [Mustafa Unel](http://people.sabanciuniv.edu/munel/) who thankfully introduced me to computer vision.
