@@ -34,6 +34,9 @@ Please send applications to the email address below with the title **[Postdoc Ca
 
 # PhD positions
 
+---
+
+## 1. PhD in Computer Vision and Machine Learning
 <!-- Currently we do not have any PhD scholarship available. If you are interested in becoming a PhD student in my group, please see the guideline below for other funding opportunities. -->
 We are seeking an exceptional UK/EU PhD candidate to study in the prestigious in the Institute of Perception, Action and Behaviour ([IPAB](http://web.inf.ed.ac.uk/ipab)) at the University of Edinburgh. The successful candidate will have an opportunity to work on cutting-edge computer vision and machine learning research projects using Deep Learning. The goal of this project is to develop the next generation of deep learning systems for computer vision with a focus on object pose estimation. The successful candidate will have the opportunity to collaborate with leading computer vision and machine learning groups in the UK and Europe. The work will be carried out under the supervision of Dr Hakan Bilen.
 
@@ -41,11 +44,28 @@ We are seeking an exceptional UK/EU PhD candidate to study in the prestigious in
 
 **Funding:** This is a Toyota Belgium funded award and will provide an annual stipend for 3.5 years, plus University fees for UK/EU students. Any eligible non-EU candidates must fund the remainder of the overseas tuition fee.
 
-**Application:** If you are interested in the position, please provide a CV, a personal statement detailing your research interests and reasons for applying (max 1 page), marks for your degree(s) and an email address for one academic reference. The application deadline is July 13, 2018 and the expected start date for the position is September/October 2018. All documents should be in electronic format and sent via e-mail to me with the title **[PhD Studentship Toyota]**. 
+**Application:** If you are interested in the position, please provide a CV, a personal statement detailing your research interests and reasons for applying (max 1 page), marks for your degree(s) and an email address for one academic reference. The application deadline is **July 13, 2018** and the expected start date for the position is September/October 2018. All documents should be in electronic format and sent via e-mail to me with the title **[PhD Studentship Toyota]**. 
 
 **Please only email me if you are a UK or EU citizen for this position.**
 
 ---
+
+## 2. PhD in Biology and Machine Learning
+
+We are seeking an exceptional UK and EU (who have been resident in the UK for three years) PhD candidate to study at the University of Edinburgh. The successful candidate will have an opportunity to study in the prestigious EASTBIO Training Programme (http://www.eastscotbiodtp.ac.uk/training-overview) and work on a cutting edge project, applying deep learning techniques to the study of the temporal and spatial control of DNA replication in mouse embryonic stem cells. The goal is to design deep convolutional neural networks and machine learning algorithms that learn from large amounts of images to classify them ACCURATELY and EXPLAINABLY. The candidate will be supervised by Dr Sara Buonomo from Biological Sciences and Dr Hakan Bilen from Informatics. More details of the project can be found at the [link](http://www.eastscotbiodtp.ac.uk/development-machine-learning-based-approach-analysis-dna-replication-primary-mammalian-cells-0)
+
+**EastBio PhD Programme:** The EASTBIO programme is designed to provide training for students with diverse backgrounds, including bioscience, biomedical, mathematical and physical sciences, enabling students to draw on a range of technologies and approaches to address biological questions. The programme structure will be tailored to the individual student’s background, training needs and the nature of the research project.
+
+**PhD candidate requirements:** We are looking for creative and motivated applicants with, or expected to obtain soon, a 1st Class Honours degree in a relevant discipline, including Informatics, Computer Science, Electrical Engineering but not limited to. Basic programming skills (python, c++, MATLAB) are required. Previous experience on machine learning and computer vision, for example object recognition and segmentation is appreciated but not a requirement. Background in Biology is not a requirement. The EASTBIO programme will support the candidate with a tailored training for the needs of the student and the research project.
+
+**Funding:** This is a UKRI BBSRC funded award and will provide an annual stipend for four years, plus University fees for UK/EU (with residency requirements) students.
+
+**Application:** If you are interested in the position, please apply via the EASTBIO website (http://www.eastscotbiodtp.ac.uk/how-apply-0). The application deadline is **July 4, 2018**. For queries and informal discussions about the project, please contact Sara Buonomo (Sara.Buonomo @ ed.ac.uk) and/or Hakan Bilen (H.Bilen @ ed.ac.uk) with the title **[PhD Studentship EastBio]**.
+
+**Please only contact us if you are a UK or EU citizen for this position.**
+
+---
+
 # FAQ
 
 I receive an overwhelming amount of emails from prospective students for PhD, MSc, MPhil. I am sorry if I have not been able to respond to your email. Here is a FAQ that may help you to find answers:
