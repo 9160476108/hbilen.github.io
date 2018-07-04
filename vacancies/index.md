@@ -16,7 +16,7 @@ We are currently seeking a postdoc to work on a project in the area of visual re
 
 **Starting date:** October 2018 or later\\
 **Duration:** Two years\\
-**Closing date:** July 6, 2018\\
+**Closing date:** August 6, 2018\\
 **Salary:** Grade 7: £31,604 - £38,833 p.a.
 
 The School of Informatics at Edinburgh is one of the top-ranked Computer Science departments in Europe and offers an exciting research environment. Edinburgh is a beautiful historic city with a high quality of life.
